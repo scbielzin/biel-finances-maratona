@@ -1,2 +1,2 @@
 # biel-finances-maratona
-Maratona Discover | Rocketseat
+<h2>Maratona Discover | Rocketseat</h2>
