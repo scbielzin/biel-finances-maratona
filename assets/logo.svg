@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="211" height="42" viewBox="0 0 211 42">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 48px;
+        fill: #fff;
+        font-family: Tempo;
+      }
+
+      .cls-2 {
+        fill: #c722a2;
+      }
+    </style>
+  </defs>
+  <text id="biel.finance_" data-name="biel.finance$" class="cls-1" y="38">biel.finance<tspan class="cls-2">$</tspan></text>
+</svg>
